@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * La classe {@code Giocatore} rappresenta un partecipante al gioco.
- * Ogni giocatore viene eseguito in un thread separato e interagisce con il {@link GestoreGioco}.
+ * Ogni giocatore viene eseguito in un thread separato e interagisce con il GestoreGioco.
  */
 public class Giocatore extends Thread {
 
@@ -45,7 +45,7 @@ public class Giocatore extends Thread {
      */
     public Giocatore(String nome, GestoreGioco gestore) {
         this.nome = nome;
-        gg = new GestoreGioco(); // ⚠️ Nota: qui forse intendevi "gg = gestore;"
+        gg = new GestoreGioco(); //
     }
 
     /**
