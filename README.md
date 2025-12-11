@@ -1,4 +1,4 @@
-#Gioca_Numeri in Java
+# Gioca_Numeri in Java.
 
 ## Descrizione del progetto
 Questo programma simula un gioco con dei numeri utilizzando i thread in Java. 
