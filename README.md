@@ -1,4 +1,4 @@
-# Gioca_Numeri in Java.
+# GiocaNumeri in Java.
 
 ## Descrizione del progetto
 Questo programma simula un gioco con dei numeri utilizzando i thread in Java. 
@@ -43,4 +43,4 @@ Il gioco viene coordinato dalla classe principale, che avvia i due giocatori e a
 4. Alla fine, il programma attende la chiusura dei due thread e mostra il messaggio di fine gioco.
 
 ## Note
-Il progetto scolastico Gioca_Numeri è stato svolto da me (studente del 5 AINF) presso l'ITTS A. Volta di Perugia grazie anche ai materiali forniti e all'aiuto dei professori Ciuchetti Monica e Amendola Francesco.
+Il progetto scolastico GiocaNumeri è stato svolto da me (studente del 5 AINF) presso l'ITTS A. Volta di Perugia grazie anche ai materiali forniti e all'aiuto dei professori Ciuchetti Monica e Amendola Francesco.
